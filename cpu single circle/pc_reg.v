@@ -1,4 +1,4 @@
-`include "C:/Users/77247/Desktop/123/define.v"
+`include "define.v"
 module pc_reg(	//pc寄存器：更新pc的值
 	clk,
 	rst_n,
