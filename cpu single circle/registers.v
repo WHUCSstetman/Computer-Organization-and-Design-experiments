@@ -1,4 +1,4 @@
-`include "C:/Users/77247/Desktop/123/define.v"
+`include "define.v"
 module registers( 		//寄存器堆
 	clk,
 	rst_n,
