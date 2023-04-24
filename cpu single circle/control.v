@@ -1,4 +1,4 @@
-`include "C:/Users/77247/Desktop/123/define.v"
+`include "define.v"
 module control(
 	opcode,
 	func3,
