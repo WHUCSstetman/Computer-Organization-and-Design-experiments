@@ -1,14 +1,3 @@
-//=====================================================================
-//
-// Designer   : Yili Gong
-//
-// Description:
-// As part of the project of Computer Organization Experiments, Wuhan University
-// In spring 2021
-// The instruction memory and data memory.
-//
-// ====================================================================
-
 `include "xgriscv_defines.v"
 
 module imem(input  [`ADDR_SIZE-1:0]   a,
