@@ -1,14 +1,3 @@
-//=====================================================================
-//
-// Designer   : Yili Gong
-//
-// Description:
-// As part of the project of Computer Organization Experiments, Wuhan University
-// In spring 2021
-// The overall of the pipelined xg-riscv implementation.
-//
-// ====================================================================
-
 `include "xgriscv_defines.v"
 module xgriscv_sc(
   input                   clk, reset, 
