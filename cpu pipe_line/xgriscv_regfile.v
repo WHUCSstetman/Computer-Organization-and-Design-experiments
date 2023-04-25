@@ -1,13 +1,3 @@
-//=====================================================================
-//
-// Designer   : Yili Gong
-//
-// Description:
-// As part of the project of Computer Organization Experiments, Wuhan University
-// The regfile module implements the core's general purpose registers file.
-//
-// ====================================================================
-
 `include "xgriscv_defines.v"
 
 module regfile(
