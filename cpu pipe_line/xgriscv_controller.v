@@ -1,14 +1,3 @@
-//=====================================================================
-//
-// Designer   : Yili Gong
-//
-// Description:
-// As part of the project of Computer Organization Experiments, Wuhan University
-// In spring 2021
-// The controller module generates the controlling signals.
-//
-// ====================================================================
-
 `include "xgriscv_defines.v"
 
 module controller(
