@@ -1,14 +1,3 @@
-//=====================================================================
-//
-// Designer   : Yili Gong
-//
-// Description:
-// As part of the project of Computer Organization Experiments, Wuhan University
-// In spring 2021
-// The alu module implements the core's ALU.
-//
-// ====================================================================
-
 `include "xgriscv_defines.v"
 module alu(
 	input	[`XLEN-1:0]			a, b, 
