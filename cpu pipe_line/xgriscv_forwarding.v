@@ -1,13 +1,3 @@
-//=====================================================================
-//
-// Designer   : Yili Gong
-//
-// Description:
-// As part of the project of Computer Organization Experiments, Wuhan University
-// In spring 2021
-// The forwarding unit in execute stage.
-//
-// ====================================================================
 `include "xgriscv_defines.v"
 
 module forwarding(
