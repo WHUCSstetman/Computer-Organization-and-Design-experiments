@@ -1,14 +1,3 @@
-//=====================================================================
-//
-// Designer   : Yili Gong
-//
-// Description:
-// As part of the project of Computer Organization Experiments, Wuhan University
-// In spring 2021
-// The datapath of the pipeline.
-// work.xgriscv_tb
-// ====================================================================
-
 `include "xgriscv_defines.v"
 
 module datapath(
